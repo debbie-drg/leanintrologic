@@ -1,0 +1,1 @@
+exact fun C ↦ C
